@@ -1,1 +1,3 @@
 # btvn
+$ git rm <file>
+  
